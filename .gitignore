@@ -1,4 +1,8 @@
-# Add any directories, files, or patterns you don't want to be tracked by version control
+# Files
+*.min.sass
+prepros.cfg
+.DS_Store
 
-node_modules/
-build/
+# Folders
+test
+node_modules
