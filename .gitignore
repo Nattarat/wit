@@ -2,6 +2,7 @@
 *.min.sass
 prepros.cfg
 .DS_Store
+debug.log
 
 # Folders
 test
